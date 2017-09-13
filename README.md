@@ -1,7 +1,7 @@
 # SequentialData4Learning
 Papers:
 1. Human Mobility Synchronization and Trip Purpose Detection with Mixture of Hawkes Processes
-
+2. COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution
 
 Code:
 
