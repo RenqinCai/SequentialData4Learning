@@ -2,10 +2,11 @@
 Papers:
 1. Human Mobility Synchronization and Trip Purpose Detection with Mixture of Hawkes Processes
 2. COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution
+3. Learning from Clinical Judgments: Semi-Markov-Modulated Marked Hawkes Processes for Risk Prognosis
 
 Code:
 
-Sampling Package:
+a. Sampling Package:
 
 1.PySMC: https://github.com/PredictiveScienceLab/pysmc pysmc is a Python package for sampling complicated probability densities using the celebrated Sequential Monte Carlo method.
 
