@@ -4,6 +4,7 @@ Papers:
 2. COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution (Xueying)
 3. Time-Sensitive Recommendation From Recurrent User Activities (Jianfeng)
 4. Learning from Clinical Judgments: Semi-Markov-Modulated Marked Hawkes Processes for Risk Prognosis (Renqin)
+5. Markov-modulated Marked Poisson Processes for Check-in Data (Xueying)
 
 Code:
 
