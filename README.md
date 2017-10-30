@@ -6,6 +6,7 @@ Papers:
 4. Learning from Clinical Judgments: Semi-Markov-Modulated Marked Hawkes Processes for Risk Prognosis (Renqin)
 5. Markov-modulated Marked Poisson Processes for Check-in Data (Xueying)
 6. Infinite Hidden Semi-Markov Modulated Interaction Point Process (Jianfeng)
+7. Learning Social Infectivity in Sparse Low-rank Networks Using Multi-dimensional Hawkes Processes (Renqin)
 
 Code:
 
